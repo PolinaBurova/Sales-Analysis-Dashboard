@@ -2,6 +2,10 @@
 
 This repository contains the Power BI dashboard for analyzing sales data. It includes the `.pbix` file, SQL scripts for processing tables, and documentation of measures, queries, and tables used in the dashboard.
 
+![Dashboard](https://github.com/PolinaBurova/Sales-Analysis-Dashboard/blob/main/pbix/SalesAnalysisDashboard_Screenshot.png)
+
+![queries](https://github.com/PolinaBurova/Sales-Analysis-Dashboard/blob/main/documentation/queries_relationship.png)
+
 ## Directory Structure
 
 - `pbix/`: Contains the Power BI dashboard file.
